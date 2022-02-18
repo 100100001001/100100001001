@@ -1,5 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFFF8D&height=300&section=header&text=Hi! I'm MinJi👋&fontSize=70" />
+</p>
 
+<br><br><br><br>
+
+✨
+<br><br>
+![MinJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=100100001001&&show_icons=true&theme=)
+
+  
 <!--
 **100100001001/100100001001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
